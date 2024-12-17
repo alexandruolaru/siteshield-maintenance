@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SiteShield Maintenance Mode\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: Romanian <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Language: ro_RO\n"
+
+#: siteshield-maintenance.php:16
+msgid "Site is under maintenance"
+msgstr "Site-ul este în mentenanță"
+
+#: siteshield-maintenance.php:17
+msgid "<h1>We will be back soon!</h1>"
+msgstr "<h1>Ne vom întoarce în curând!</h1>"
+
+#: siteshield-maintenance.php:28
+msgid "Maintenance Settings"
+msgstr "Setări de mentenanță"
+
+#: siteshield-maintenance.php:29
+msgid "SiteShield Maintenance Mode"
+msgstr "Modul de mentenanță SiteShield"
+
+#: admin-page.php:16
+msgid "SiteShield Maintenance Mode Settings"
+msgstr "Setări pentru modulul de mentenanță SiteShield"
+
+#: admin-page.php:20
+msgid "Enable Maintenance Mode"
+msgstr "Activează modul de mentenanță"
+
+#: admin-page.php:25
+msgid "Maintenance Page Title"
+msgstr "Titlul paginii de mentenanță"
+
+#: admin-page.php:30
+msgid "Maintenance Page Content"
+msgstr "Conținutul paginii de mentenanță"
+
+#: admin-page.php:35
+msgid "Allowed User Roles"
+msgstr "Roluri de utilizatori permise"
+
+#: admin-page.php:55
+msgid "Save Changes"
+msgstr "Salvează modificările"
+
+#: admin-page.php:95
+msgid "Settings saved successfully!"
+msgstr "Setările au fost salvate cu succes!"
+
+#: siteshield-maintenance.php:70
+msgid "Settings"
+msgstr "Setări"
